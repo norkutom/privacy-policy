@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+
+    <style>
+        body {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.7;
+            color: #333;
+        }
+
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #222;
+        }
+
+        .updated {
+            color: #666;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+
+    <p class="updated"><strong>Last Updated:</strong> July 13, 2026</p>
+
+    <p>
+        This Privacy Policy applies to all mobile applications and services
+        published by <strong>[Developer Name]</strong>, unless a specific
+        application contains its own privacy policy.
+    </p>
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        [Developer Name] ("we", "our", or "us") operates mobile applications
+        and related services (the "Service").
+    </p>
+
+    <p>
+        This Privacy Policy explains how we collect, use, disclose, and
+        safeguard information when you use our Service.
+    </p>
+
+    <p>
+        By using the Service, you agree to the collection and use of
+        information in accordance with this Privacy Policy.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+
+    <h3>Information You Provide</h3>
+
+    <p>We may collect information that you voluntarily provide, including:</p>
+
+    <ul>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Account credentials</li>
+        <li>Profile information</li>
+        <li>Support requests and communications</li>
+        <li>Content submitted through the Service</li>
+    </ul>
+
+    <h3>Automatically Collected Information</h3>
+
+    <p>
+        When you use the Service, certain information may be collected
+        automatically, including:
+    </p>
+
+    <ul>
+        <li>Device model</li>
+        <li>Operating system version</li>
+        <li>Unique device identifiers</li>
+        <li>IP address</li>
+        <li>Time zone</li>
+        <li>Application usage data</li>
+        <li>Diagnostic and crash information</li>
+        <li>Performance metrics</li>
+    </ul>
+
+    <h3>Subscription and Payment Information</h3>
+
+    <p>
+        If you purchase subscriptions or digital products, payments are
+        processed by Apple App Store or Google Play Store. We do not store
+        your payment card details.
+    </p>
+
+    <h2>3. How We Use Information</h2>
+
+    <p>We may use collected information to:</p>
+
+    <ul>
+        <li>Provide and maintain the Service</li>
+        <li>Create and manage user accounts</li>
+        <li>Improve application functionality</li>
+        <li>Personalize user experience</li>
+        <li>Process transactions and subscriptions</li>
+        <li>Respond to support requests</li>
+        <li>Monitor performance and reliability</li>
+        <li>Detect and prevent fraud or abuse</li>
+        <li>Comply with legal obligations</li>
+    </ul>
+
+    <h2>4. Analytics and Diagnostics</h2>
+
+    <p>
+        We may use analytics and diagnostic tools to understand usage
+        patterns and improve the Service.
+    </p>
+
+    <p>These tools may collect:</p>
+
+    <ul>
+        <li>App interactions</li>
+        <li>Device information</li>
+        <li>Session information</li>
+        <li>Error logs</li>
+        <li>Crash reports</li>
+    </ul>
+
+    <p>
+        Analytics data is generally aggregated and used for service
+        improvement purposes.
+    </p>
+
+    <h2>5. Third-Party Services</h2>
+
+    <p>
+        Our Service may use third-party providers including, but not limited
+        to:
+    </p>
+
+    <ul>
+        <li>Apple Services</li>
+        <li>Google Firebase</li>
+        <li>Microsoft Services</li>
+        <li>Cloud hosting providers</li>
+        <li>Analytics providers</li>
+        <li>Customer support providers</li>
+    </ul>
+
+    <p>
+        These third parties may collect information according to their own
+        privacy policies.
+    </p>
+
+    <h2>6. Push Notifications</h2>
+
+    <p>
+        We may send push notifications related to:
+    </p>
+
+    <ul>
+        <li>Account activity</li>
+        <li>Service updates</li>
+        <li>Reminders</li>
+        <li>Important announcements</li>
+    </ul>
+
+    <p>
+        You may disable notifications at any time through your device
+        settings.
+    </p>
+
+    <h2>7. Data Sharing</h2>
+
+    <p>We do not sell personal information.</p>
+
+    <p>We may share information:</p>
+
+    <ul>
+        <li>With service providers assisting in operating the Service</li>
+        <li>To comply with legal requirements</li>
+        <li>To protect our rights and property</li>
+        <li>In connection with a merger, acquisition, or sale of assets</li>
+    </ul>
+
+    <h2>8. Data Retention</h2>
+
+    <p>
+        We retain personal information only for as long as necessary to:
+    </p>
+
+    <ul>
+        <li>Provide the Service</li>
+        <li>Meet legal obligations</li>
+        <li>Resolve disputes</li>
+        <li>Enforce agreements</li>
+    </ul>
+
+    <p>
+        When information is no longer required, it will be deleted or
+        anonymized where practical.
+    </p>
+
+    <h2>9. Data Security</h2>
+
+    <p>
+        We implement reasonable administrative, technical, and organizational
+        safeguards designed to protect information from unauthorized access,
+        disclosure, alteration, or destruction.
+    </p>
+
+    <p>
+        However, no method of electronic transmission or storage is completely
+        secure, and we cannot guarantee absolute security.
+    </p>
+
+    <h2>10. International Transfers</h2>
+
+    <p>
+        Information may be processed and stored in countries other than your
+        country of residence.
+    </p>
+
+    <p>
+        Where required by applicable law, appropriate safeguards will be
+        implemented to protect personal data.
+    </p>
+
+    <h2>11. Your Privacy Rights</h2>
+
+    <p>
+        Depending on your jurisdiction, you may have rights to:
+    </p>
+
+    <ul>
+        <li>Access your personal information</li>
+        <li>Correct inaccurate data</li>
+        <li>Delete your information</li>
+        <li>Restrict processing</li>
+        <li>Object to processing</li>
+        <li>Request data portability</li>
+        <li>Withdraw consent where applicable</li>
+    </ul>
+
+    <p>
+        To exercise these rights, contact us using the information provided
+        below.
+    </p>
+
+    <h2>12. Children's Privacy</h2>
+
+    <p>
+        The Service is not directed to children under the age required by
+        applicable law.
+    </p>
+
+    <p>
+        We do not knowingly collect personal information from children. If we
+        become aware that personal information has been collected from a child
+        without appropriate authorization, we will take steps to delete that
+        information.
+    </p>
+
+    <h2>13. GDPR and EEA Users</h2>
+
+    <p>
+        If you are located in the European Economic Area (EEA), United Kingdom,
+        or Switzerland, we process personal data under one or more lawful
+        bases, including:
+    </p>
+
+    <ul>
+        <li>Consent</li>
+        <li>Contract performance</li>
+        <li>Legitimate interests</li>
+        <li>Compliance with legal obligations</li>
+    </ul>
+
+    <p>
+        You may contact us to exercise your applicable privacy rights.
+    </p>
+
+    <h2>14. California Privacy Rights</h2>
+
+    <p>
+        California residents may have additional rights regarding access to,
+        deletion of, and information about personal data processing under
+        applicable California privacy laws.
+    </p>
+
+    <h2>15. Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy periodically.
+    </p>
+
+    <p>
+        Changes become effective when posted on this page. Continued use of
+        the Service after updates constitutes acceptance of the revised
+        Privacy Policy.
+    </p>
+
+    <h2>16. Contact Us</h2>
+
+    <p>
+        If you have any questions regarding this Privacy Policy, please contact:
+    </p>
+
+    <p>
+        <strong>[Developer Name]</strong><br>
+        Email: <strong>[Email Address]</strong>
+    </p>
+
+</body>
+</html>
